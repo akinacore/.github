@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./assets/akinacore-hero.gif" width="100%" alt="AkinaCore - Thoughtful engineering meets intelligent product design. Here, you will find a collection of practical, engaging, and independent projects spanning web architectures, mobile experiences, and applied AI—all designed and built independently by Akina." />
+<img src="./profile/assets/akinacore-hero.gif" width="100%" alt="AkinaCore - Thoughtful engineering meets intelligent product design. Here, you will find a collection of practical, engaging, and independent projects spanning web architectures, mobile experiences, and applied AI—all designed and built independently by Akina." />
 </p>
 
 <p align="center">
